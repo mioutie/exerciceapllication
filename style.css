@@ -1,0 +1,15 @@
+img{
+    width: 150px;
+    float:left;
+
+}
+#orange{
+    
+    width:300px;
+    background-color: rgb(171, 177, 175);
+    height: 300px;
+    align-items: flex-end;
+    border-radius: 25px;
+}
+
+  
